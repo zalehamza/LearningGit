@@ -1,1 +1,1 @@
-Modifaction in locally
+This line was modified manually during conflict
